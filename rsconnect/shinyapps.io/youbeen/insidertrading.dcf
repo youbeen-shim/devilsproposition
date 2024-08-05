@@ -1,0 +1,10 @@
+name: insidertrading
+title:
+username: youbeen
+account: youbeen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12407706
+bundleId: 8945812
+url: https://youbeen.shinyapps.io/insidertrading/
+version: 1
